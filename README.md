@@ -5,11 +5,7 @@ Olen andmeanalüütika huviline. Kasutan SQL-i, Power BI-d, Excelit ja Tableau�
 
 Tehnoloogiad, mida õpin
 
-![SQL](https://img.shields.io/badge/SQL-Analysis-blue)
-
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
-
-![Tableau](https://img.shields.io/badge/Tableau-Visualization-orange)
+![SQL](https://img.shields.io/badge/SQL-Analysis-blue) ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow) ![Tableau](https://img.shields.io/badge/Tableau-Visualization-orange)
 
 Andmebaasid: PostgreSQL, Supabase
 
