@@ -15,5 +15,9 @@ Visualiseerimine: Power BI, Streamlit
 
 Versioonihaldus: Git, GitHub
 
+## Projektid 
+
+[DACA portfoolio] https://github.com/Maris-data/daca-portfolio - 11-nädaane õppeprojekt 
+
 <br clear="left">
 
